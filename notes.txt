@@ -1,0 +1,10 @@
+
+# Add index.ipynb and full.ipynb
+
+- Need to mention OpenCV exposure issues
+
+
+http://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html
+
+Colorspace stuff
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_colorspaces/py_colorspaces.html
